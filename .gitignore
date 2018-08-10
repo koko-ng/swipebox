@@ -9,6 +9,7 @@ demo/scss/
 **/.sass-cache
 **/.grunt
 **/node_modules
+grunt/package-lock.json
 
 # Windows image file caches
 Thumbs.db
