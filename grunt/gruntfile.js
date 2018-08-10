@@ -84,9 +84,10 @@ module.exports = function(grunt) {
 		// chech our JS
 		jshint: {
 			options : {
-				jshintrc : '.jshintrc'
+				jshintrc : '.jshintrc',
+				reporterOutput: ''
 			},
-			all: [ '../src/js/jquery.swipebox.js' ]
+			all: [ '../src/js/jquery.swipebox.js' ],
 		},
 
 		// minify JS
