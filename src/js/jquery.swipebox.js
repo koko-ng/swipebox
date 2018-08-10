@@ -1,3 +1,4 @@
+/*! Swipebox v1.4.5 | koko-ng | MIT License | github.com/koko-ng/swipebox */
 /*! Swipebox v1.4.4 | Constantin Saguin csag.co | MIT License | github.com/brutaldesign/swipebox */
 /*
  * Pinch-zoom added by Claudio Castelpietra - www.itala.net - 21/09/2015
